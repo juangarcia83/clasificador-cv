@@ -99,16 +99,6 @@ python3 E5.py train/ test/ > resultados.txt
 
 Asegúrate de que las carpetas `train/` y `test/` existen y contienen imágenes `.jpg`.
 
----
-
-## 🏗️ Posibles Mejoras
-
-* Uso de histogramas normalizados o TF-IDF en lugar de conteo directo
-* Incorporación de técnicas de **data augmentation**
-* Evaluación con `cross-validation`, `precision`, `recall`, `F1-score`
-* Visualización de los clusters (palabras visuales) más representativos
-
----
 
 ## 📄 Autor
 
